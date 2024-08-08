@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "css",
+			"path": "../../Downloads/colorlib-regform-7/colorlib-regform-7/css"
+		},
+		{
+			"name": "Meetup",
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/colorlib-regform-7/colorlib-regform-7/fonts"
+		},
+		{
+			"path": "../../Downloads/colorlib-regform-7/colorlib-regform-7/images"
+		},
+		{
+			"path": "../../Downloads/colorlib-regform-7/colorlib-regform-7/js"
+		},
+		{
+			"path": "../../Downloads/colorlib-regform-7/colorlib-regform-7/scss"
+		},
+		{
+			"path": "../../Downloads/colorlib-regform-7/colorlib-regform-7/vendor"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
+}
